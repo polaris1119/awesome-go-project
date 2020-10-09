@@ -1,2 +1,3 @@
 # awesome-go-project
-Aggregate complete Golang projects, not libraries or packages
+
+A curated list of awesome Go complete projects，not libraries or packages
